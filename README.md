@@ -1,1 +1,2 @@
-# odin_journey
+# odin_journey 
+i wanna learn
